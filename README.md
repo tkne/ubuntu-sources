@@ -7,7 +7,7 @@ Working Ubuntu 14.04 (Trusty Tahr) - Ubuntu 22.04 (Jammy Jellyfish) sources.list
 > These sources use Ubuntu Japan Team URL links (jp.archive.ubuntu.com). If you are handling servers in the US (or elsewhere for that matter), please update you sources.list dotfile manually by exchanging the `jp.` portion of the URL to `us.` if you are in the US for example.
 
 ## Usage:
-Navigate to the `/etc/apt` folder.Backup your current `sources.list` file.
+Navigate to the `/etc/apt` folder.
 ```bash
 cd /etc/apt
 ```
