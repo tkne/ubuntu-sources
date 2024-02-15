@@ -23,35 +23,35 @@ mv sources.list sources.list_old
 
 **For Ubuntu 14.04 (Trusty Tahr)**
 ```bash
-wget https://raw.githubusercontent.com/tkne/debian-sources/main/sources.list.ubuntu1404 -O /etc/apt/sources.list
+wget https://raw.githubusercontent.com/tkne/ubuntu-sources/main/sources.list.ubuntu1404 -O /etc/apt/sources.list
 ```
 
 </br>
 
 **For Ubuntu 16.04 (Xenial Xerus)**
 ```bash
-wget https://raw.githubusercontent.com/tkne/debian-sources/main/sources.list.ubuntu1604 -O /etc/apt/sources.list
+wget https://raw.githubusercontent.com/tkne/ubuntu-sources/main/sources.list.ubuntu1604 -O /etc/apt/sources.list
 ```
 
 </br>
 
 **For Ubuntu 18.04 (Bionic Beaver)**
 ```bash
-wget https://raw.githubusercontent.com/tkne/debian-sources/main/sources.list.ubuntu1804 -O /etc/apt/sources.list
+wget https://raw.githubusercontent.com/tkne/ubuntu-sources/main/sources.list.ubuntu1804 -O /etc/apt/sources.list
 ```
 
 </br>
 
 **For Ubuntu 20.04 (Focal Fossa)**
 ```bash
-wget https://raw.githubusercontent.com/tkne/debian-sources/main/sources.list.ubuntu2004 -O /etc/apt/sources.list
+wget https://raw.githubusercontent.com/tkne/ubuntu-sources/main/sources.list.ubuntu2004 -O /etc/apt/sources.list
 ```
 
 </br>
 
 **For Ubuntu 22.04 (Jammy Jellyfish)**
 ```bash
-wget https://raw.githubusercontent.com/tkne/debian-sources/main/sources.list.ubuntu2204 -O /etc/apt/sources.list
+wget https://raw.githubusercontent.com/tkne/ubuntu-sources/main/sources.list.ubuntu2204 -O /etc/apt/sources.list
 ```
 
 </br>
